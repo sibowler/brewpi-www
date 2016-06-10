@@ -81,9 +81,10 @@ button#maintenance{
 	float: left;
 }
 
+/* Brewometer change: Beer panel height to account for additional legend items */
 #beer-panel{
 	width: 980px;
-    height: 525px;
+	height: 540px;
 	margin-bottom: 10px;
     float:left;
 }
